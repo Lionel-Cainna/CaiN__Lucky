@@ -219,7 +219,7 @@ section h1{
 .Container-roupas img:hover{
     transform: scale(0.9) translateY(-5px);
     cursor: pointer;
-    transition: 0.3s;
+    transition: 1.0s;
 
 }
 
