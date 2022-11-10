@@ -152,6 +152,13 @@ section h1{
 .text-cta{
     padding-left: 5rem;
 }
+.text h6{
+    font-family: 'fontbomb', Courier, monospace;
+
+
+}
+
+
 .text-cta h6{
  font-family: 'fontbomb', Courier, monospace;
 
@@ -159,7 +166,7 @@ section h1{
 
 .text-cta h6{
     color: #fff;
-    font-size: 29px;
+    font-size: 39px;
 	font-weight: 500;
 	letter-spacing: .6px;
 	margin-bottom: 14px;
